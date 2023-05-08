@@ -1,0 +1,1 @@
+UPDATE "Student1" SET "Name" = 'Magesh' WHERE "Rollno" =1
