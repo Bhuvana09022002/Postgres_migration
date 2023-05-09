@@ -1,0 +1,7 @@
+CREATE TABLE "Student1" (
+    "Rollno" INTEGER PRIMARY KEY,
+    "Name" VARCHAR(50) NOT NULL,
+    "DOB" DATE NOT NULL,
+    "Age" INTEGER NOT NULL,
+    "Gender" VARCHAR(10) NOT NULL
+);
